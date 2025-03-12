@@ -1,4 +1,4 @@
-**Database Core Repository**!   
+## **Database Core Repository**  
 This repository contains all the **Tasks, and Exercises** I completed during my ITI **Full-Stack .NET Development** training, covering essential and advanced database concepts.
 
 ---
